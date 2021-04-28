@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akr808
-- 👀 I’m interested in Machine Learning, AI and Big Data
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Machine Learning, AI and Big Data in Computers and  Particle Physics, Space Technologies in general. 
+- 🌱 I’m currently learning "everything possible"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me twitter.com/akr808
 
